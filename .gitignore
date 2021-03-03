@@ -274,3 +274,6 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+videos/
+books/Discrete Mathematics Mathematical Reasoning and Proof with Puzzles Patterns and Games.pdf
