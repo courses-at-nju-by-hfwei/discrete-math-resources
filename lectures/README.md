@@ -12,3 +12,5 @@
 
 - [PacktPublishing / Practical-Discrete-Mathematics](https://github.com/PacktPublishing/Practical-Discrete-Mathematics)
 > Practical Discrete Mathematics, published by Packt
+
+- [离散数学及其应用 浙江大学](https://qsctech.github.io/zju-icicles/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/)
